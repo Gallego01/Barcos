@@ -1,0 +1,7 @@
+C:\Users\Usuario\Downloads\Barcos\Barcos\bin\Debug\Barcos.exe.config
+C:\Users\Usuario\Downloads\Barcos\Barcos\bin\Debug\Barcos.exe
+C:\Users\Usuario\Downloads\Barcos\Barcos\bin\Debug\Barcos.pdb
+C:\Users\Usuario\Downloads\Barcos\Barcos\obj\Debug\Barcos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\Barcos\Barcos\obj\Debug\Barcos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Barcos\Barcos\obj\Debug\Barcos.exe
+C:\Users\Usuario\Downloads\Barcos\Barcos\obj\Debug\Barcos.pdb
